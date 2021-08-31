@@ -1,8 +1,8 @@
 # RT-AK 之 STM32 插件 Demo-CornLeafDisease 
 | Version                                                      | Date       | Description                                    | Other |
 | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ----- |
-| [v0.1.0](https://git.rt-thread.com/ai_project_shuttle/art-pi_cornleafdisease/-/tree/v0.1.0) | 2021/07/14 | cld 玉米叶病害分类模型部署到 ART-PI 中         |       |
-| [v0.2.0](https://git.rt-thread.com/ai_project_shuttle/art-pi_cornleafdisease/-/tree/v0.2.0) | 2021/07/15 | 1. 新增 LCD ; 2. 新增使用命令之后 logo 1s 显示 |       |
+| [v0.1.0](https://github.com/EdgeAIWithRTT/Project8_Art-pi_CornLeafDisease/tree/v0.1.0) | 2021/07/14 | cld 玉米叶病害分类模型部署到 ART-PI 中         |       |
+| [v0.2.0](https://github.com/EdgeAIWithRTT/Project8_Art-pi_CornLeafDisease/tree/v0.2.0) | 2021/07/15 | 1. 新增 LCD ; 2. 新增使用命令之后 logo 1s 显示 |       |
 
 ## 1. RT-AK 简介
 
